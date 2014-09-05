@@ -19,6 +19,12 @@ websites:
       tfa: No
       twitter: badger
 
+    - name: Bluehost
+      url: https://www.bluehost.com/
+      img: bluehost.png
+      tfa: No
+      twitter: bluehostsupport
+
     - name: CloudFlare
       url: https://cloudflare.com
       img: cloudflare.png
